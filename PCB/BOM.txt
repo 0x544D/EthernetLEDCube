@@ -1,0 +1,11 @@
+Segor:
+======
+
+- ARK 2-Lift (24A)	0,40€
+- ARK 2	(8A)		0,25€
+
+Digikey:
+========
+
+- 6 x IRLR9343TRPBFTR-ND 	0,79€
+- 6 x 1727-4692-1-ND		0,13€
